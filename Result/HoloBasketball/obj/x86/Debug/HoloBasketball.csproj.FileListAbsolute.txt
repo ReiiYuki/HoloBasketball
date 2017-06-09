@@ -208,3 +208,5 @@ C:\Users\yukir\Documents\HoloBasketball\Result\HoloBasketball\obj\x86\Debug\qual
 C:\Users\yukir\Documents\HoloBasketball\Result\HoloBasketball\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\yukir\Documents\HoloBasketball\Result\HoloBasketball\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\yukir\Documents\HoloBasketball\Result\HoloBasketball\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\yukir\Documents\HoloBasketball\Result\HoloBasketball\bin\x86\Debug\Assembly-CSharp.dll
+C:\Users\yukir\Documents\HoloBasketball\Result\HoloBasketball\bin\x86\Debug\Assembly-CSharp.pdb

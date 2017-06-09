@@ -7,8 +7,8 @@
 # Default behavior is to never overwrite files
 HoloBasketball.sln: E9495E401C50A45CF6DD6A73F6B40A7B
 HoloBasketball\App.cs: A23D0D77B5B61A220B05E11E1816A249
-HoloBasketball\HoloBasketball.csproj: 3D2644B3DB3AB1214E7A3A8B2735617C
-HoloBasketball\HoloBasketball.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+HoloBasketball\HoloBasketball.csproj: 95A077E087F6580151C031A5934A30C6
+HoloBasketball\HoloBasketball.csproj.user: modified
 HoloBasketball\Package.appxmanifest: 262E8FEC5D105244909F734E27700E3B
 HoloBasketball\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HoloBasketball\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
